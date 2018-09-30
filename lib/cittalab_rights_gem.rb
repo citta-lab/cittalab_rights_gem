@@ -1,5 +1,3 @@
 require "cittalab_rights_gem/version"
+require "cittalab_rights_gem/renderer"
 
-module CittalabRightsGem
-  # Your code goes here...
-end
